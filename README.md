@@ -1,2 +1,7 @@
+
 # Monte-Carlo-Simulation-of-ferroelectric-properties
 https://onlinelibrary.wiley.com/doi/pdf/10.1002/pssb.200743272
+
+# Calculation of proper energy barriers for atomistic kinetic Monte Carlo simulations on rigid lattice with chemical and strain field long-range effects using artificial neural networks
+https://aip.scitation.org/doi/citedby/10.1063/1.3298990
+
