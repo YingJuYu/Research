@@ -1,5 +1,7 @@
 
-Energy barriers for dipole moment flipping in PVDF-related ferroelectric polymers”, The Journal of Chemical Physics, 144(1), 014901
+Ying-Ju Yu, Alan J.H. McGaughey, "Energy barriers for dipole moment flipping in PVDF-related ferroelectric polymers”, The Journal of Chemical Physics, 144(1), 014901
+
+https://aip.scitation.org/doi/10.1063/1.4939152
 
 This paper discuss the rotational energy barriers in ferroelectric PVDF-related polymers. 
 A polymer is a long, chain-like molecule built from smaller components called monomers. Each of monomer is composed of different atoms:
@@ -23,17 +25,10 @@ polymer chain distances. Later two findings both enabled easier rotation of the 
 monomers. Furthermore, a parametric studies on the chemical compositions of the P(VDFTrFE-CFE) polymers crystals is carried out which becomes a useful reference when
 synthesizing this polymer material.
 
-work is significant to the field in that she developed the computational
+This work is significant to the field in that she developed the computational
 scheme of this polymer by combining relatively fast and inexpensive computations,providing the details of the polymer rotational mechanism that cannot be wholly
 observed in the experiments, and also provided the composition with lowest energy barrier
 information which helped in synthesizing the polymer to maximum its cooling performance.
 
 
-Related references:
-
-# Monte-Carlo-Simulation-of-ferroelectric-properties
-https://onlinelibrary.wiley.com/doi/pdf/10.1002/pssb.200743272
-
-# Calculation of proper energy barriers for atomistic kinetic Monte Carlo simulations on rigid lattice with chemical and strain field long-range effects using artificial neural networks
-https://aip.scitation.org/doi/citedby/10.1063/1.3298990
 
